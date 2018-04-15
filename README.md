@@ -1,7 +1,7 @@
 # NN-Pytorch-Bokeh
 This is a collection of python notebooks with examples of Neural Networkds in PyTorch with visualization in Bokeh. Currently it contains:
 
-* One-dimensional GAN example in which the generator tries to mimic a Gaussian distribution. The notebook currently implements different generator and discriminator models as a comparison based on the following sources:
+* One-dimensional GAN example in which the generator tries to mimic a Gaussian distribution. The notebook currently implements different generator and discriminator models and different GAN types for comparison, based on the following sources:
 
     * http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/
 
